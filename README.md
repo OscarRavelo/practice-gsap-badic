@@ -7,7 +7,6 @@ An interactive landing page featuring stunning animations powered by **GSAP**, a
 ## 🌟 Features
 
 - 🎨 Smooth animations with **GSAP** (ScrollTrigger, Hover Effects).
-- 📊 Fully responsive design using **Tailwind CSS**.
 - ⚡ Lightning-fast build and hot-reloading with **Vite**.
 - 🖼️ Hover effects for images and text.
 
@@ -17,6 +16,8 @@ Make sure you have the following installed on your system:
 
 - **Node.js** (v18 or higher)
 - **npm** or **pnpm** (preferred)
+- **GSAP**
+- **Tailwind css**
 
 ## 🔧 Installation
 

@@ -1,11 +1,12 @@
 import { useState } from "react";
+import Hero from "./components/Hero";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
-      <h1 className="text-3xl font-bold underline text-red-200">hello world</h1>
+      <Hero />
+      <div>colash</div>
+      <div>scrollAnimation</div>
     </>
   );
 }
