@@ -10,7 +10,6 @@ import { useRef } from "react";
 const Colash = () => {
   const imagesRef = useRef([]);
   useGSAP(() => {
-    console.log("test", imagesRef);
     gsap.fromTo(
       imagesRef.current,
       {
